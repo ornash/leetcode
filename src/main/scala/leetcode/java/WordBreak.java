@@ -14,6 +14,7 @@ import java.util.*;
  * Input: s = "leetcode", wordDict = ["leet", "code"]
  * Output: true
  * Explanation: Return true because "leetcode" can be segmented as "leet code".
+ *
  * Example 2:
  *
  * Input: s = "applepenapple", wordDict = ["apple", "pen"]
